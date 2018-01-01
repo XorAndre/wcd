@@ -45,7 +45,7 @@ CMS e Monitoramento
 </ol>  
 <hr>
 #### Front-end
-Montar painel 
-montar layouts pré prontos e ferramenta edição (Observação Jquery + Angular)
-Site novo dentro das novas regras 2018 
+Montar painel <br>
+montar layouts pré prontos e ferramenta edição (Observação Jquery + Angular)<br>
+Site novo dentro das novas regras 2018<br> 
 SEO 
